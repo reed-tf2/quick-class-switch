@@ -1,1 +1,1 @@
-# [Quick Class Switch](./class_switch)
+# [Quick Class Switch](./class_switch.cfg)
